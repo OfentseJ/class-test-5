@@ -77,7 +77,7 @@
     </security-constraint>
     <login-config>
         <auth-method>FORM</auth-method>
-        <realm-name>ERealm</realm-name>
+        <realm-name>FRealm</realm-name>
         <form-login-config>
             <form-login-page>/loginPage.jsp</form-login-page>
             <form-error-page>/login_error.jsp</form-error-page>
